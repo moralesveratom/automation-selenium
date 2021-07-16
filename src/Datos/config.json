@@ -1,0 +1,4 @@
+{
+  "ambiente": ["http://automationpractice.com/index.ph"],
+  "driver": "C:\\Program Files\\automation-selenium\\src\\chromedriver.exe"
+}
